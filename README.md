@@ -12,4 +12,5 @@ We will use a simple thing like **String**...
 ### Example:
 `User.find({ username: req.body.username, password: String(req.body.password }, function (err, users) {`
 
+##### I put String Because it Allows manipulation and formatting of text strings and determination and location of substrings within strings.
 Check the source code i've putted it.
