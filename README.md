@@ -11,4 +11,5 @@ We will use a simple thing like **String**...
 
 ### Example:
 `User.find({ username: req.body.username, password: String(req.body.password }, function (err, users) {`
-Checl the source code i've putted it.
+
+Check the source code i've putted it.
