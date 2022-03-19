@@ -9,3 +9,6 @@ This JSON Code is vulnerable with NoSQL Injection
 As we can this allow the attacker can access into admin panal without knowing the password
 We will use a simple thing like **String**...
 
+### Example:
+`User.find({ username: req.body.username, password: String(req.body.password }, function (err, users) {`
+Checl the source code i've putted it.
