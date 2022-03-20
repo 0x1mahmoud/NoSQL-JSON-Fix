@@ -6,7 +6,7 @@ As we see in the image below we have a vulnerable JSON Code
 
 This JSON Code is vulnerable with NoSQL Injection
 ### Description:
-As we can this allow the attacker can access into admin panal without knowing the password
+As we can this allow the attacker can access into admin panel without knowing the password
 We will use a simple thing like **String**...
 
 ### Example:
